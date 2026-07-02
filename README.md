@@ -1,21 +1,23 @@
 <div align="center">
 
 <h1>Olá, eu sou o Thiago 👋</h1>
-<h3>Senior Full Stack Developer | Co-Founder @ Trax</h3>
+<h3>Founder & Full Stack Developer</h3>
 
 <p>
-  Construindo produtos escaláveis do backend ao mobile — hoje na <b>Uniodonto</b>,
-  empreendendo na <b>Trax</b>.
+  Construindo a <b>GestOdonto</b> sozinho, do banco de dados à interface —
+  gestão de clínicas odontológicas premium no Brasil.
 </p>
 
 <p>
+  <a href="https://gestodonto.com.br">
+    <img src="https://img.shields.io/badge/GestOdonto-Site-C9A961?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GestOdonto"/>
+  </a>
   <a href="https://www.linkedin.com/in/thiago-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:dev7.thiago@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=thiagodev7&style=for-the-badge&color=0077B5" alt="Profile views"/>
 </p>
 
 </div>
@@ -24,58 +26,46 @@
 
 ## 👨‍💻 Sobre mim
 
-Especialista em desenvolvimento de software com mais de 5 anos de experiência,
-com foco em **arquitetura escalável** e **integração de sistemas complexos**.
-
 ```
 const thiago = {
-  cargo: "Full Stack Developer @ Uniodonto",
-  empreendedorismo: "Co-founder & Tech Lead (Backend & Infra) @ Trax",
-  formacao: "Bacharelado em Engenharia de Software (em curso)",
-  foco: ["arquitetura escalável", "APIs robustas", "infra & devops"],
+  cargo: "CEO & Founder @ GestOdonto",
+  perfil: "Solo developer — full stack, do zero ao deploy",
+  stack: ["NestJS", "Prisma", "PostgreSQL", "Next.js"],
+  ferramenta_favorita: "Cursor AI",
+  fora_do_teclado: "levantando peso 🏋️",
+  base: "Brasil 🇧🇷",
 };
 ```
 
-- 🏢 **Atualmente:** Full Stack Developer na **Uniodonto**
-- 🚀 **Empreendedorismo:** Co-founder e Tech Lead de Backend & Infra na **Trax**
-- 🎓 **Formação:** Bacharelado em Engenharia de Software (em curso)
-- 💬 **Sobre mim:** gosto de transformar problemas complexos em sistemas simples e sustentáveis
+- 🦷 **Construindo:** [GestOdonto](https://gestodonto.com.br) — SaaS de gestão para clínicas odontológicas premium (estética, implantes, ortodontia)
+- 🧑‍💻 **Como:** solo founder, cuidando de produto, arquitetura e código — do backend ao design system
+- 🛠️ **Stack principal:** NestJS + Prisma + PostgreSQL no backend, Next.js no frontend
+- 🤖 **Fluxo de trabalho:** uso intenso de Cursor AI para acelerar desenvolvimento sem abrir mão de padrões de engenharia sólidos
+- 🏋️ **Fora do código:** treino de musculação
 
 <br/>
 
 ## 🛠️ Stack Tecnológica
 
-**Mobile & Frontend**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,html,css&perline=10&theme=dark" />
-
-**Backend, Infra & DevOps**
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,docker,linux,git&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,nestjs,nodejs,postgres,prisma,nextjs,react,tailwind&perline=8&theme=dark" />
 
 <br/>
 
 ## 📈 Métricas de Código
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thiagodev7&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=999" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodev7&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=999" />
-</div>
-
-## 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thiagodev7&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thiagodev7&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=C9A961&icon_color=C9A961&text_color=999" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodev7&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=C9A961&icon_color=C9A961&text_color=999" />
 </div>
 
 ## 🗓️ Atividade (Agenda de Commits)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagodev7&theme=dark&hide_border=true&date_format=d%2Fm%2FY&locale=pt_BR" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagodev7&theme=dark&hide_border=true&date_format=d%2Fm%2FY&locale=pt_BR&ring=C9A961&fire=C9A961" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <sub>Feito com ☕ por Thiago Ribeiro</sub>
+  <sub>Gestão à altura da sua excelência. — <a href="https://gestodonto.com.br">gestodonto.com.br</a></sub>
 </div>
